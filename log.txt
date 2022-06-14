@@ -1,0 +1,13 @@
+git init
+git remote add origin https://github.com/afnangithub/forty_hadith_of_an_nawawi.git
+git commit -am "#1 commit"
+git branch -M flutter
+git push -u origin flutter
+
+//a
+git init
+git remote -a forty_hadith_of_an_nawawi
+
+git add .
+git commit -am "#1 commit"
+git push main
